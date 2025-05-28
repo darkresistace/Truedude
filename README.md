@@ -1,3 +1,3 @@
 # Truedude
-Task1 = Nilesh1.py
-Task2 = Nilesh2.py
+Task1 =  Perform Basic Mathematical Operations
+Task2 = Create a Personalized Greeting
