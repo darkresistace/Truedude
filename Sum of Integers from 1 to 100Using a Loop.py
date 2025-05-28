@@ -1,7 +1,7 @@
 total = 0
 
-# Loop from 1 to 50
-for i in range(1, 51):
+# Loop from 1 to 100
+for i in range(1, 101):
     total += i
 
 # Print the result
