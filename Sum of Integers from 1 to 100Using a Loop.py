@@ -5,4 +5,4 @@ for i in range(1, 101):
     total += i
 
 # Print the result
-print("The sum of integers from 1 to 50 is:", total)
+print("The sum of integers from 1 to 100 is:", total)
