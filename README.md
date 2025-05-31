@@ -8,5 +8,8 @@ Assign 3
 Module 4: Functions & Modules in Python =Functions & Modules in Python.py
 Using the Math Module for Calculations=to find a factorial.py
 Assign 4
-Read file and handle error
-Write and Append data to a file
+Read file and handle error.py
+Write and Append data to a file.py
+Assign 5
+Data structures and strings in python.py
+demo list slicing.py
