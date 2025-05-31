@@ -1,4 +1,4 @@
-# Truedude Assign 1
+# Assign 1
 Task1 =  Perform Basic Mathematical Operations
 Task2 = Create a Personalized Greeting
 Assign 2
