@@ -13,3 +13,5 @@ Write and Append data to a file.py
 Assign 5
 Data structures and strings in python.py
 demo list slicing.py
+Module 10 & 11: CALCULATOR USING TKINTER
+Calculator.py
